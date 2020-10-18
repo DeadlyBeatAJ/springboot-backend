@@ -1,0 +1,7 @@
+
+create database employee_management_system;
+
+use employee_management_system;
+
+INSERT INTO employee_management_system.employees (id, email_id, first_name, last_name) VALUES ('1', 'rs@a.com', 'Rohit', 'sharma');
+INSERT INTO employee_management_system.employees (id, email_id, first_name, last_name) VALUES ('2', 'vk@a.com', 'virat', 'Kohali');
